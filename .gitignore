@@ -1,0 +1,9 @@
+Dataset/
+uploads/
+build/
+dist/
+venv/
+__pycache__/
+*.exe
+*.h5
+*.pkl
